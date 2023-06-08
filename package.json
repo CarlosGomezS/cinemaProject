@@ -1,0 +1,19 @@
+{
+  "name": "TestCinesa_CarlosGomez",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "TestCinesa_CarlosGomez"
+    }
+  },
+  "dependencies": {
+    "cypress": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.2.1",
+    "@cypress/webpack-preprocessor": "^5.17.1"
+  }
+}
